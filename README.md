@@ -16,7 +16,7 @@
 
 ## Overview
 
-This project is part of the Udacity Azure ML Nanodegree. It performs an AutoML run on the [bank marketing dataset](https://www.kaggle.com/yufengsui/portuguese-bank-marketing-data-set) and deploys the best model obtained from AutoML as a RESTful API web service. The project builds pipeline automation to improve machine learning operations.
+This project is part of the Udacity Azure ML Nanodegree. It performs an AutoML run on the [bank marketing dataset](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) and deploys the best model obtained from AutoML as a RESTful API web service. The project builds pipeline automation to improve machine learning operations.
 
 The main steps performed in this project are:
 
